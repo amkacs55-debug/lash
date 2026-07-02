@@ -76,7 +76,7 @@ export default function AdminLogin() {
                 type="email"
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
-                placeholder="admin@lashstudio.com"
+                placeholder="admin@"
                 className="w-full px-4 py-3 border-2 border-gray-200 rounded-xl font-manrope focus:border-[#C9A86A] outline-none transition-colors"
                 required
               />
@@ -109,9 +109,9 @@ export default function AdminLogin() {
               Demo Credentials:
             </p>
             <p className="font-manrope text-xs text-blue-600">
-              Email: admin@lashstudio.com
+              Email: 
               <br />
-              Password: demo123456
+              Password: 
             </p>
           </div>
         </div>
