@@ -58,7 +58,7 @@ export default function Footer() {
                 88445111
               </a>
               <a
-                href="https://www.facebook.com/share/19CG65eSJP/"
+                href="https://www.facebook.com/share/g/1Fnf6RprQ9/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-gray-400 hover:text-[#E8BFCF] transition"
@@ -71,7 +71,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-gray-700 pt-8 text-center text-gray-400 font-manrope">
-          <p>&copy; 2024 {salonName}. Бүх эрх хуулиар хамгаалагдсан.</p>
+          <p>&copy; Nomin Salon.</p>
         </div>
       </div>
     </footer>
